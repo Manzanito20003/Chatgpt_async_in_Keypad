@@ -16,6 +16,8 @@ Este proyecto permite realizar las siguientes tareas:
 ## **Instalación**
 Sigue estos pasos para instalar el proyecto en tu máquina local:
 
+Necesitaras instalar ORC Tesstrack este motor para reconocimento de caracteres.
+
 1. **Clona este repositorio**:
    ```bash
    git clone https://github.com/Manzanito20003/Chatgpt_async_in_Keypad.git
