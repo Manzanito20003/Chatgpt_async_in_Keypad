@@ -1,0 +1,48 @@
+[33mcommit a45d90b45c6301f0879aa5d2d37f1d02e2b25c68[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 0192022 c11c404
+Author: JEFERSSON_QE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Wed Dec 18 22:54:10 2024 -0500
+
+    Merge branch 'main' of https://github.com/Manzanito20003/Chatgpt_async_in_Keypad
+
+[33mcommit 01920223914b157b6dafe1fa199811d70390feb9[m
+Author: JEFERSSON_QE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Wed Dec 18 22:48:50 2024 -0500
+
+    add main2
+
+[33mcommit c11c4040741ad8899941245b03e939a73ba04f3f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: jeferssonQE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Wed Dec 18 12:55:54 2024 -0500
+
+    Update README.md
+
+[33mcommit 3492252c876d2e8c6863f3bfea12263dc8da0a51[m
+Author: jeferssonQE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Wed Dec 18 12:55:06 2024 -0500
+
+    Delete main.py
+
+[33mcommit 0ac797a8ced51105078cbd4a8912dad23d5baa96[m
+Author: JEFERSSON_QE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Wed Dec 18 12:53:01 2024 -0500
+
+    add readme
+
+[33mcommit b675baa382756040c7622275488d8202d1b86d9f[m
+Author: JEFERSSON_QE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Wed Dec 18 12:27:23 2024 -0500
+
+    find word on screen and move to position of word
+
+[33mcommit 02906c7b837aa70cc6bec7709bae17ba5b6cf149[m
+Author: JEFERSSON_QE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Thu Dec 12 21:58:22 2024 -0500
+
+    v1
+
+[33mcommit b433bd8abb1ea44d0f5296560f6bdbbce7e1cf13[m
+Author: JEFERSSON_QE <112734981+Manzanito20003@users.noreply.github.com>
+Date:   Thu Dec 12 00:04:26 2024 -0500
+
+    primer comit aqui
