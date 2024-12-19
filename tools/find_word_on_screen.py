@@ -43,7 +43,7 @@ def find_word_on_screen(word_to_find, screenshot=None, coordenada1=(0, 0), coord
 
     # Busca la palabra en los datos obtenidos
     for i, text in enumerate(data['text']):
-        print("text:",text)
+
         if text.strip() and word_to_find.lower() in text.lower():
             x, y, w, h = data['left'][i], data['top'][i], data['width'][i], data['height'][i]
             center_x = x1 + x + w // 2
