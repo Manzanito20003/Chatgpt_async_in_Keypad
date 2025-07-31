@@ -1,7 +1,7 @@
 # **Nombre del Proyecto**
 
 Este proyecto permite realizar las siguientes tareas:  
-1. Encontrar una palabra en una captura de pantalla y devolver su posición en coordenadas **(x, y)**.  
+1. Encontrar una palabra en una captura de pantalla y devolver su posición en coordenadas con ORC tesseract **(x, y)**.  
 2. Realizar movimientos curvados hacia una posición con el mouse.  
 3. Obtener la posición actual del mouse.
 
