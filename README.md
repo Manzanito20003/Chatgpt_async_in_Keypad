@@ -4,7 +4,7 @@ Este proyecto permite realizar las siguientes tareas:
 1. Encontrar una palabra en una captura de pantalla y devolver su posición en coordenadas con ORC tesseract **(x, y)**.  
 2. Realizar movimientos curvados hacia una posición con el mouse.  
 3. Obtener la posición actual del mouse.
-
+4. mandar a gemini 
 ## **Tabla de Contenidos**
 - [Instalación](#instalación)
 - [Uso](#uso)
